@@ -10,4 +10,4 @@ This project will allow the user to input their tasks in the task bar which when
 
 ## Deployed Application Link
 
-https://stevenss04.github.io/Password-Generator/
+https://stevenss04.github.io/Work-Day-Scheduler/
